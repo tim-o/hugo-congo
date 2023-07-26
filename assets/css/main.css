@@ -55,7 +55,7 @@ body:has(#menu-controller:checked) {
 
 /* Adjust first child within prose */
 .prose div.min-w-0.max-w-prose > *:first-child {
-  @apply mt-3;
+  @apply mt-0;
 }
 
 /* Table of Contents */

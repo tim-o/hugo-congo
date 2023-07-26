@@ -675,7 +675,7 @@ video {
   color: var(--tw-prose-headings);
   font-weight: 700;
   font-size: 1.5em;
-  margin-top: 2em;
+  margin-top: 1.5em;
   margin-bottom: 1em;
   line-height: 1.3333333;
 }
@@ -1076,7 +1076,7 @@ body:has(#menu-controller:checked) {
 /* Adjust first child within prose */
 
 .prose div.min-w-0.max-w-prose > *:first-child {
-  margin-top: 0.75rem;
+  margin-top: 0rem;
 }
 
 /* Table of Contents */
